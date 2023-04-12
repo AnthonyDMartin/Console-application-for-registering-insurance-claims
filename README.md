@@ -1,1 +1,1 @@
-# Console-application-for-registering-insurance-claims
+# My console application for registering insurance claims in Czech.
